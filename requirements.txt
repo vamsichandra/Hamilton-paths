@@ -1,0 +1,4 @@
+matplotlib==3.4.0
+pygraphviz==1.5
+networkx==2.6.3
+Graphillion==1.5
